@@ -64,6 +64,7 @@ function LoginPage() {
         </div>
 
         <button type="submit">SUBMIT</button>
+        <a href="/auth/register">Please register</a>
       </form>
     </>
   );
